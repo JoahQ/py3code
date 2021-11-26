@@ -1,0 +1,7 @@
+.idea/
+bin/Debug/
+obj/
+bin/
+.vs/
+*.suo
+venv/
