@@ -36,8 +36,3 @@ HostName ：真正连接的服务器地址
 User：自定义的用户名
 PreferredAuthentications 指定优先使用哪种方式验证，支持密码和秘钥验证方式
 IdentityFile：指定本次连接使用的密钥文件
-
-作者：带刀打天下
-链接：https://www.jianshu.com/p/d6c6f37fb4f1
-来源：简书
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
